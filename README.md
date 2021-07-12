@@ -1,5 +1,7 @@
 :cloud: hey
 
+Check out my writings @ https://blog.risx.io/
+
 Projects
 ---
 #### Games
